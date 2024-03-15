@@ -14,7 +14,7 @@ import BookingsPage from "./pages/BookingsPage";
 import BookingPage from "./pages/BookingPage";
 
 
-axios.defaults.baseURL = "https://airbnb-organichousebooking-4-client.onrender.com";
+axios.defaults.baseURL = "https://airbnb-website-api-1.onrender.com/";
 axios.defaults.withCredentials = true;
 
 function App() {
